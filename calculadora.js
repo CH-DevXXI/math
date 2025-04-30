@@ -6,6 +6,7 @@ function sumar(a, b) {
     return a - b;
   }
 Console.log("Hola desde calculadora.js");
+Console.alert("Hola desde calculadora.js");
 
 sumar(5 , 3);
 restar(10, 4);
