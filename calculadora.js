@@ -6,5 +6,5 @@ function sumar(a, b) {
     return a - b;
   }
 
-sumar(5 , 3);
+sumar(9 , 333);
 restar(10, 4);
