@@ -8,5 +8,5 @@ function sumar(a, b) {
 Console.log("Hola desde calculadora.js");
 Console.alert("Hola desde calculadora.js");
 
-sumar(5 , 3);
+sumar(9 , 333);
 restar(10, 4);
